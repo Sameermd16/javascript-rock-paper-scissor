@@ -1,0 +1,27 @@
+button{
+    background-color: rgba(137, 43, 226, 0.473);
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    outline: none;
+    border-radius: 25px;
+    margin-right: 20px;
+}
+button:hover  {
+    background-color: blueviolet;
+    cursor: pointer;
+}
+body {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+section {
+    background: linear-gradient(45deg, violet, skyblue);
+    padding: 20px;
+    border-radius: 10px;
+}
+h2 {
+    color: rgba(0, 0, 0, 0.79);
+}
